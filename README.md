@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pinerealm
+- 👋 Hi, I’m Oluwaseyi Salami
 - 👀 I’m interested in data analysis, data science and machine learning + software engineering
 - 🌱 I’m currently learning all the subjects above
 - 💞️ I’m looking to collaborate on data science and machine learning projects
