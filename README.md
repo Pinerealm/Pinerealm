@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwaseyi Salami
-- 👀 I’m interested in data analysis, data science, machine learning and software engineering
-- 🌱 I’m currently learning all the subjects above
+- 👀 I’m actively learning data analysis, data science, machine learning and software engineering topics
+- 🌱 I’m currently working on projects related to all the subjects above
 - 💞️ I’m looking to collaborate on data science and machine learning projects
 - 📫 How to reach me https://www.linkedin.com/in/osalami/
 
